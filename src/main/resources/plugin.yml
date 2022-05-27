@@ -1,0 +1,6 @@
+name: Levelsystem
+version: '${project.version}'
+main: eu.baumistlustig.levelsystem.Levelsystem
+api-version: 1.16
+authors: [ Baumistlustig ]
+description: A minecraft Plugin for the cross-platform levelsystem
